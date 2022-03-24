@@ -8,7 +8,7 @@
 - 자유 주제였는데, 사용자 습관 관리 어플리케이션을 개발하다보면 Database를 다루고 CRUD를 구현해볼 수 있을 것 같아서 진행하게 되었다.
 
 ## 이미지
-|화면캡처|
+|화면캡처||
 |--|--|
 |<img src="https://user-images.githubusercontent.com/61059893/159918358-40e24487-b2e7-4556-83ed-04ad46e26325.jpg" width="300" height="400"/>|<img src="https://user-images.githubusercontent.com/61059893/159918391-26a490f1-2dfc-4e38-bb5f-674dd0fed954.jpg" width="300" height="400"/>|
 
